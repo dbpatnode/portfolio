@@ -773,7 +773,7 @@ input[type="radio"] + label:before {
 }
 
 .image img {
-  border-radius: 4px;
+  border-radius: 15%;
   display: block;
 }
 
@@ -818,7 +818,9 @@ input[type="radio"] + label:before {
 
 .image.main img {
   align-content: center;
-  width: 100%;
+  width: 50%;
+  margin: 0 auto;
+
   /* height: 500px; */
 }
 
