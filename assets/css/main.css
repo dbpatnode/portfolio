@@ -1356,6 +1356,24 @@ body.is-preload #bg:before {
   }
 }
 
+/* resume span */
+/* @media screen and (max-width: 1680px) {
+  #wrapper {
+    padding: 3rem 2rem;
+  } */
+/* } */
+
+@media screen and (max-width: 1024px) {
+  .resume-span {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .resume-span {
+    display: none;
+  }
+}
 /* Header */
 
 #header {
