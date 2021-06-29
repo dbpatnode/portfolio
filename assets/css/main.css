@@ -1363,7 +1363,7 @@ body.is-preload #bg:before {
   } */
 /* } */
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .resume-span {
     display: none;
   }
@@ -1373,7 +1373,7 @@ body.is-preload #bg:before {
   .resume-span {
     display: none;
   }
-}
+} */
 /* Header */
 
 #header {
